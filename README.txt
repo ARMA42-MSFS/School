@@ -44,3 +44,9 @@ V2.7:
 - Icon im App-Header integriert
 - Manifest für Android/PWA-App-Icon aktualisiert
 - einheitliches modernes Navigationsdesign mit aktiver Menümarkierung
+
+V2.8: Menüstruktur überarbeitet: klare Bereiche Heute, Planung, Schulen, Tools und Mehr; stärkerer Fokus auf aktive Seite und mobile Lesbarkeit.
+
+V2.9: Heute und Planung konsequent getrennt. Einsatzplanung befindet sich ausschließlich unter Planung; nächster Einsatz, Kalender, Monatswerte und Einsatzliste dort gebündelt. Mehr-Seite in Auswertung, Einstellungen und Daten gegliedert.
+
+V2.9.1 Stable Fix: Service-Worker-Cache korrigiert; fehlendes icon.svg aus Precache entfernt; Schnellnotizen einzeln löschbar; Schnellnotizen können einem Einsatz zugeordnet und als dauerhafter Einsatzbericht gespeichert werden.
