@@ -35,4 +35,4 @@ V2.5 Tagesbegleiter:
 - Schuljahresstatistik
 - Einstellungen für Startort/Ankunftsvorlauf
 
-V2.5.2: Schaltfläche "Angekommen" und der zugehörige Schulmodus wurden vollständig entfernt.
+V2.6 UI Refresh: komplett modernisierte Oberfläche; Morgen-Checkliste fest auf Handy geladen, Schultasche dabei, Schuladresse geprüft und Uhrzeit geprüft reduziert.
