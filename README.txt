@@ -34,3 +34,5 @@ V2.5 Tagesbegleiter:
 - Morgen-Checkliste und Schnellnotizen
 - Schuljahresstatistik
 - Einstellungen für Startort/Ankunftsvorlauf
+
+V2.5.2: Schaltfläche "Angekommen" und der zugehörige Schulmodus wurden vollständig entfernt.
