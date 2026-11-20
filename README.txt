@@ -50,3 +50,5 @@ V2.8: Menüstruktur überarbeitet: klare Bereiche Heute, Planung, Schulen, Tools
 V2.9: Heute und Planung konsequent getrennt. Einsatzplanung befindet sich ausschließlich unter Planung; nächster Einsatz, Kalender, Monatswerte und Einsatzliste dort gebündelt. Mehr-Seite in Auswertung, Einstellungen und Daten gegliedert.
 
 V2.9.1 Stable Fix: Service-Worker-Cache korrigiert; fehlendes icon.svg aus Precache entfernt; Schnellnotizen einzeln löschbar; Schnellnotizen können einem Einsatz zugeordnet und als dauerhafter Einsatzbericht gespeichert werden.
+
+V2.9.2: Jeder Einsatz in der Kalender-/Monatsliste besitzt jetzt eine eigene Schaltfläche „Einsatzbericht“. Sie wählt exakt diesen Einsatz im Berichtsbereich aus; vorhandene Berichte werden am Einsatz markiert.
