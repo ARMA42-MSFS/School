@@ -1,7 +1,7 @@
 {
   "name": "ReservePilot",
   "short_name": "ReservePilot",
-  "description": "Mobile Einsatzplanung für Reservelehrkräfte",
+  "description": "Mobile Einsatzverwaltung für Reservelehrkräfte",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
