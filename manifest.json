@@ -1,0 +1,18 @@
+{
+  "name": "ReservePilot",
+  "short_name": "ReservePilot",
+  "description": "Mobile Einsatzplanung für Reservelehrkräfte",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#3157d5",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

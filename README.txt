@@ -1,8 +1,23 @@
-ReservePilot WebApp
+ReservePilot V2.0 - Installierbare WebApp (PWA)
 
-Start:
-1. ZIP entpacken.
-2. index.html im Browser öffnen.
+INHALT
+- Monatlich gespeicherte Einsätze
+- Mehrere Schulen mit Stammdaten
+- Unterrichtsgenerator und Reserve-Zentrale
+- Lehrer-Tools und Timer
+- Monatsstatistik
+- Backup und Wiederherstellung
+- Offline-PWA
 
-Die App läuft ohne Installation und speichert Einsatzdaten lokal im Browser.
-Für GitHub Pages einfach index.html in ein Repository hochladen und Pages aktivieren.
+START LOKAL
+Die index.html kann direkt getestet werden. Für vollständige PWA-, Offline- und Installationsfunktionen ist HTTPS erforderlich.
+
+GITHUB PAGES
+1. Alle Dateien aus diesem ZIP in ein GitHub-Repository hochladen.
+2. Settings > Pages öffnen.
+3. Deploy from a branch, Branch main, Ordner /root wählen.
+4. Die veröffentlichte Adresse in Chrome oder Edge öffnen.
+5. Im Browsermenü App installieren / Zum Startbildschirm hinzufügen wählen.
+
+DATENSCHUTZ
+Daten werden ausschließlich lokal im Browser gespeichert. Verwende keine unnötigen sensiblen Schülerdaten. Regelmäßig ein JSON-Backup herunterladen.
