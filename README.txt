@@ -38,3 +38,9 @@ V2.5 Tagesbegleiter:
 V2.6 UI Refresh: komplett modernisierte Oberfläche; Morgen-Checkliste fest auf Handy geladen, Schultasche dabei, Schuladresse geprüft und Uhrzeit geprüft reduziert.
 
 V2.6.1: Angekommen und Schulmodus vollständig entfernt.
+
+V2.7:
+- neues ReservePilot-App-Icon als 192px und 512px PNG eingebunden
+- Icon im App-Header integriert
+- Manifest für Android/PWA-App-Icon aktualisiert
+- einheitliches modernes Navigationsdesign mit aktiver Menümarkierung
