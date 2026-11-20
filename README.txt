@@ -1,10 +1,9 @@
-ReservePilot V2.1 - Installierbare WebApp (PWA)
+ReservePilot V2.3 - Installierbare WebApp (PWA)
 
 INHALT
 - Monatlich gespeicherte Einsätze
 - Mehrere Schulen mit Stammdaten
 - Dropdown mit allen Grundschulen des Landkreises Neuburg-Schrobenhausen
-- Reserve-Zentrale ohne Unterrichtsgenerator
 - Lehrer-Tools und Timer
 - Monatsstatistik
 - Backup und Wiederherstellung
