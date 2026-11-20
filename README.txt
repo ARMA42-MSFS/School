@@ -1,4 +1,4 @@
-ReservePilot V2.3 - Installierbare WebApp (PWA)
+ReservePilot V2.4 - Installierbare WebApp (PWA)
 
 INHALT
 - Monatlich gespeicherte Einsätze
@@ -21,3 +21,5 @@ GITHUB PAGES
 
 DATENSCHUTZ
 Daten werden ausschließlich lokal im Browser gespeichert. Verwende keine unnötigen sensiblen Schülerdaten. Regelmäßig ein JSON-Backup herunterladen.
+
+V2.4: Einsätze können vorausgeplant und mit Erinnerungsoption gespeichert werden. Systembenachrichtigungen benötigen HTTPS, installierte/unterstützte PWA und erteilte Berechtigung. Ohne Push-Backend sind Erinnerungen bei vollständig beendeter App nicht auf jedem Gerät garantiert.
