@@ -36,3 +36,5 @@ V2.5 Tagesbegleiter:
 - Einstellungen für Startort/Ankunftsvorlauf
 
 V2.6 UI Refresh: komplett modernisierte Oberfläche; Morgen-Checkliste fest auf Handy geladen, Schultasche dabei, Schuladresse geprüft und Uhrzeit geprüft reduziert.
+
+V2.6.1: Angekommen und Schulmodus vollständig entfernt.
