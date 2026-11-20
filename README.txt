@@ -54,3 +54,5 @@ V2.9.1 Stable Fix: Service-Worker-Cache korrigiert; fehlendes icon.svg aus Preca
 V2.9.2: Jeder Einsatz in der Kalender-/Monatsliste besitzt jetzt eine eigene Schaltfläche „Einsatzbericht“. Sie wählt exakt diesen Einsatz im Berichtsbereich aus; vorhandene Berichte werden am Einsatz markiert.
 
 V2.9.3: Einsatzberichte können explizit bearbeitet und nach Bestätigung gelöscht werden. Beim Löschen des Berichts bleiben Schnellnotizen erhalten. Gespeicherte Berichte sind zunächst schreibgeschützt und werden über „Bericht bearbeiten“ freigegeben.
+
+V2.9.4: Alle Routen-Schaltflächen öffnen Google Maps ohne fest hinterlegten Startpunkt. Dadurch verwendet Google Maps den aktuellen Gerätestandort als Startpunkt; Fahrmodus ist voreingestellt.
