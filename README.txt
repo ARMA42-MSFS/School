@@ -1,4 +1,4 @@
-ReservePilot V2.10 Minimal
+ReservePilot V2.11 Minimal
 
 DREI SEITEN
 1. Planung: nächster Einsatz, Monatskalender, Einsatz anlegen/bearbeiten/löschen und Einsatznotizen.
@@ -10,3 +10,5 @@ Die App nutzt weiterhin den lokalen Speicher-Schlüssel reservepilot-v2.5, damit
 
 PWA
 Für vollständige PWA-/Offline-Funktionen über HTTPS bereitstellen, z. B. GitHub Pages. Der Service-Worker-Cache ist reservepilot-v2.10.0.
+
+V2.11: Monatsübersicht kann jetzt mit Vor/Zurück zwischen Monaten blättern. Monat und Jahr sind zusätzlich direkt auswählbar; „Aktueller Monat“ springt zurück zum laufenden Monat.
