@@ -1,58 +1,12 @@
-ReservePilot V2.5 - Installierbare WebApp (PWA)
+ReservePilot V2.10 Minimal
 
-INHALT
-- Monatlich gespeicherte Einsätze
-- Mehrere Schulen mit Stammdaten
-- Dropdown mit allen Grundschulen des Landkreises Neuburg-Schrobenhausen
-- Lehrer-Tools und Timer
-- Monatsstatistik
-- Backup und Wiederherstellung
-- Offline-PWA
+DREI SEITEN
+1. Planung: nächster Einsatz, Monatskalender, Einsatz anlegen/bearbeiten/löschen und Einsatznotizen.
+2. Schulen: alle hinterlegten Grundschulen mit Adresse, Telefonnummer, Suche, Route vom aktuellen Standort und Direktanruf.
+3. Monat: ausschließlich Übersicht des aktuellen Monats mit Einsätzen, Schulen, Unterrichtsstunden, Gesamtzeit und Einsatznotizen.
 
-START LOKAL
-Die index.html kann direkt getestet werden. Für vollständige PWA-, Offline- und Installationsfunktionen ist HTTPS erforderlich.
+DATEN
+Die App nutzt weiterhin den lokalen Speicher-Schlüssel reservepilot-v2.5, damit vorhandene Daten aus der bisherigen App übernommen werden können. Alte Zusatzfelder werden nicht angezeigt, aber nicht aktiv zerstört.
 
-GITHUB PAGES
-1. Alle Dateien aus diesem ZIP in ein GitHub-Repository hochladen.
-2. Settings > Pages öffnen.
-3. Deploy from a branch, Branch main, Ordner /root wählen.
-4. Die veröffentlichte Adresse in Chrome oder Edge öffnen.
-5. Im Browsermenü App installieren / Zum Startbildschirm hinzufügen wählen.
-
-DATENSCHUTZ
-Daten werden ausschließlich lokal im Browser gespeichert. Verwende keine unnötigen sensiblen Schülerdaten. Regelmäßig ein JSON-Backup herunterladen.
-
-V2.4: Einsätze können vorausgeplant und mit Erinnerungsoption gespeichert werden. Systembenachrichtigungen benötigen HTTPS, installierte/unterstützte PWA und erteilte Berechtigung. Ohne Push-Backend sind Erinnerungen bei vollständig beendeter App nicht auf jedem Gerät garantiert.
-
-V2.4.1: Funktion und Schaltfläche "Einsatz abschließen" entfernt. Vorausplanung und Monatsspeicherung bleiben erhalten.
-
-V2.5 Tagesbegleiter:
-- Mein-Tag-Dashboard mit Jetzt/Als-Nächstes
-- grafischer Monatskalender und Vorausplanung per Tag
-- Navigation und Direktanruf
-- Favoritenschulen, Schulnotizen, Pausen-/Stundenzeiten
-- Morgen-Checkliste und Schnellnotizen
-- Schuljahresstatistik
-- Einstellungen für Startort/Ankunftsvorlauf
-
-V2.6 UI Refresh: komplett modernisierte Oberfläche; Morgen-Checkliste fest auf Handy geladen, Schultasche dabei, Schuladresse geprüft und Uhrzeit geprüft reduziert.
-
-V2.6.1: Angekommen und Schulmodus vollständig entfernt.
-
-V2.7:
-- neues ReservePilot-App-Icon als 192px und 512px PNG eingebunden
-- Icon im App-Header integriert
-- Manifest für Android/PWA-App-Icon aktualisiert
-- einheitliches modernes Navigationsdesign mit aktiver Menümarkierung
-
-V2.8: Menüstruktur überarbeitet: klare Bereiche Heute, Planung, Schulen, Tools und Mehr; stärkerer Fokus auf aktive Seite und mobile Lesbarkeit.
-
-V2.9: Heute und Planung konsequent getrennt. Einsatzplanung befindet sich ausschließlich unter Planung; nächster Einsatz, Kalender, Monatswerte und Einsatzliste dort gebündelt. Mehr-Seite in Auswertung, Einstellungen und Daten gegliedert.
-
-V2.9.1 Stable Fix: Service-Worker-Cache korrigiert; fehlendes icon.svg aus Precache entfernt; Schnellnotizen einzeln löschbar; Schnellnotizen können einem Einsatz zugeordnet und als dauerhafter Einsatzbericht gespeichert werden.
-
-V2.9.2: Jeder Einsatz in der Kalender-/Monatsliste besitzt jetzt eine eigene Schaltfläche „Einsatzbericht“. Sie wählt exakt diesen Einsatz im Berichtsbereich aus; vorhandene Berichte werden am Einsatz markiert.
-
-V2.9.3: Einsatzberichte können explizit bearbeitet und nach Bestätigung gelöscht werden. Beim Löschen des Berichts bleiben Schnellnotizen erhalten. Gespeicherte Berichte sind zunächst schreibgeschützt und werden über „Bericht bearbeiten“ freigegeben.
-
-V2.9.4: Alle Routen-Schaltflächen öffnen Google Maps ohne fest hinterlegten Startpunkt. Dadurch verwendet Google Maps den aktuellen Gerätestandort als Startpunkt; Fahrmodus ist voreingestellt.
+PWA
+Für vollständige PWA-/Offline-Funktionen über HTTPS bereitstellen, z. B. GitHub Pages. Der Service-Worker-Cache ist reservepilot-v2.10.0.
