@@ -1,1 +1,24 @@
-{"name":"ReservePilot","short_name":"ReservePilot","description":"Schlanke Einsatzplanung für mobile Reservelehrkräfte","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f7f8fc","theme_color":"#312e81","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "ReservePlanung",
+  "short_name": "ReservePlanung",
+  "description": "Einsatzplanung für mobile Reservelehrkräfte",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11145a",
+  "theme_color": "#25166f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
