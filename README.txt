@@ -14,3 +14,5 @@ Für vollständige PWA-/Offline-Funktionen über HTTPS bereitstellen, z. B. GitH
 V2.12: Monatsübersicht kann jetzt mit Vor/Zurück zwischen Monaten blättern. Monat und Jahr sind zusätzlich direkt auswählbar; „Aktueller Monat“ springt zurück zum laufenden Monat.
 
 V2.12: Rebranding auf ReservePlanung, Liquid-Glass-Design, neuer Hintergrund und Logo der Grundschule Rennertshofen integriert.
+
+V2.12.1: Schullogo Rennertshofen wieder entfernt; Glass-Fenster transparenter gestaltet, Hintergrund stärker sichtbar.
